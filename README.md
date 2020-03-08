@@ -1,4 +1,4 @@
-# Face -Detection-api - v1
+# Face -Detection-api
 
 
 1. Clone this repo
